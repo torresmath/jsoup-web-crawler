@@ -7,9 +7,9 @@ Maven dependencies used:
 
 ```
 <dependency>
-			<groupId>org.jsoup</groupId>
-			<artifactId>jsoup</artifactId>
-			<version>1.10.2</version>
+	<groupId>org.jsoup</groupId>
+	<artifactId>jsoup</artifactId>
+	<version>1.10.2</version>
 </dependency> 
 <dependency>
     <groupId>io.vavr</groupId>
@@ -17,9 +17,9 @@ Maven dependencies used:
     <version>0.10.2</version>
 </dependency>
 <dependency>
-		<groupId>org.projectlombok</groupId>
-		<artifactId>lombok</artifactId>
-		<version>1.18.12</version>
-		<scope>provided</scope>
+	<groupId>org.projectlombok</groupId>
+	<artifactId>lombok</artifactId>
+	<version>1.18.12</version>
+	<scope>provided</scope>
 </dependency>
 ```
